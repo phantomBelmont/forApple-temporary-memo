@@ -1,4 +1,4 @@
-const i_creCACHE = 'v3';
+const i_creCACHE = 'v4';
 const ASSETS = [
   './',
   './index.html',
